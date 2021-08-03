@@ -1,0 +1,20 @@
+,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,num_bars,num_sections,num_segments
+0,3Jalv7Q4CHeiHtdqgv5HVj,Hot Stuff,TOLEDO,['TOLEDO'],0.545,0.775,1,-8.337,1,0.0996,0.162,0.112,0.765,160.006,209164,4,137,10,803
+1,0AIpGG5dxEgnAymhdJRSZ0,Champagne Coast,Blood Orange,['Blood Orange'],0.813,0.406,9,-12.626,1,0.0203,0.392,0.0757,0.755,122.658,292373,4,147,9,1258
+2,5SOrrelhaVSfUtKgduNQ35,Shell,Valley Palace,['Valley Palace'],0.568,0.712,9,-11.722,1,0.318,0.76,0.0651,0.321,150.056,207200,4,127,7,840
+3,3nMWdZuB87f8wgzVY0CzlO,Again,Nice Guys,"['Nice Guys', 'Jaguar Sun']",0.651,0.614,7,-9.331,1,0.174,0.709,0.104,0.608,97.836,227686,4,91,6,795
+4,56mgbW81OVXwAgUsNkewPA,Spitting Blood,WU LYF,['WU LYF'],0.366,0.741,2,-7.071,0,0.194,3.46e-05,0.333,0.141,131.734,227307,4,127,10,697
+5,79PaJyGdIi8XN6d9tp2YlT,Even True Love,Widowspeak,['Widowspeak'],0.618,0.72,2,-6.405,1,0.265,0.432,0.156,0.64,120.992,286660,4,140,8,951
+6,7FX5YbkSnFCOLASH7MLxjU,For You,Willie J Healey,['Willie J Healey'],0.549,0.543,6,-8.695,0,0.425,0.000568,0.0974,0.406,83.009,227681,4,77,10,742
+7,4GjWZDfWw5ZnW9vmioJwY0,Keep You Warm,Jaguar Sun,['Jaguar Sun'],0.527,0.555,7,-11.346,1,0.614,0.574,0.33,0.18,143.917,256205,4,150,10,879
+8,04DdNbTmZAgHfNP6FdY3Sa,Plum,Widowspeak,['Widowspeak'],0.644,0.756,7,-8.342,1,0.567,0.158,0.151,0.802,120.03,264955,4,128,9,900
+9,5EdpixfJpL4XF4tB8fSYn7,Cassette,Swiss Portrait,['Swiss Portrait'],0.591,0.732,10,-8.522,1,0.435,0.924,0.148,0.712,117.981,218450,4,104,10,836
+10,2XTJ2w8XALqCfFF0BQfZB6,Wyoming,Heather Woods Broderick,['Heather Woods Broderick'],0.146,0.313,9,-9.749,1,0.418,0.905,0.107,0.115,72.56,220401,4,63,6,573
+11,0uthD1uJVRD6IkupfsyZwl,Blue Eyed Girl,Mikal Cronin,['Mikal Cronin'],0.697,0.329,9,-10.531,1,0.835,3.33e-05,0.117,0.443,131.441,159780,4,83,6,538
+12,6W3fKPJoWW88P68JkhJomR,Light On The Ground,Valley Maker,['Valley Maker'],0.53,0.86,8,-6.154,1,0.0718,0.0237,0.11,0.32,163.957,197670,4,132,9,711
+13,19GJyFd7ZzBb2Lbq34yYoe,Baby's Arms,Kurt Vile,"['Kurt Vile', 'The Sadies']",0.488,0.526,11,-6.279,0,0.878,0.00427,0.275,0.346,82.241,284640,4,97,10,1042
+14,3Bqw48ecyeeOHvuU1jYy6C,Potions,Day Wave,['Day Wave'],0.646,0.705,7,-5.816,1,0.495,4.77e-05,0.151,0.223,91.513,190061,4,71,10,731
+15,7d9212orrSfVHQaSdesffl,Powder,LAUNDER,['LAUNDER'],0.509,0.586,2,-10.262,1,0.149,0.635,0.292,0.233,117.997,270015,4,131,18,819
+16,6No2OA04pRfNVDu2mvrZAy,The Unknown,peach tinted,['peach tinted'],0.594,0.69,0,-10.239,1,0.151,0.543,0.366,0.726,136.529,188368,4,106,8,717
+17,4o0LyB69tylqDG6eTGhmig,Fire for You,Cannons,['Cannons'],0.737,0.678,6,-7.011,0,0.114,0.157,0.123,0.698,102.051,231826,4,97,6,1119
+18,7plcUmQeFLphpul81MjBxk,Fun,Sir Sly,['Sir Sly'],0.632,0.678,9,-7.532,1,0.00427,0.206,0.0579,0.857,144.026,232625,4,136,14,905
